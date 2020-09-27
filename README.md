@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there, I'm Dennis 
 
-<!--
-**dennisorellana2/dennisorellana2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a data analytics graduate student.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Spark.
+- 🌱 I’m currently learning big data analytics tools.
+- 👯 I’m looking to collaborate with other content data scientists.
+- 🥅 2020 Goals: Contribute more to open source data science projects.
+- ⚡ Fun fact: I love to dance latino music and play socccer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me:
+
+:e-mail:dennisorellana2@gmail.com
+[<img align="left" alt="dennisorellana2 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="left" alt="jupyter-notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
+<img align="left" alt="Spyder" width="26px" src="https://avatars0.githubusercontent.com/u/1284937?s=200&v=4" />
+<img align="left" alt="CoLab" width="26px" src="https://avatars1.githubusercontent.com/u/38081706?s=60&u=963d11e5a1e77618d6baab30d32d40cb17e4064d&v=4" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Tableau" width="26px" src="https://tableau.github.io/webdataconnector/assets/logo.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Spark apache" width="26px" src="https://spark.apache.org/images/spark-logo-trademark.png" />
+<img align="left" alt="Watson Studio" width="26px" src="https://cache.globalcatalog.cloud.ibm.com/api/v1/39ba9d4c-b1c5-4cc3-a163-38b580121e01/artifacts/cache/3a58e03b24ca5cfe0195ae72fd7c5401-public/watson-studio-light.svg" />
+
+[gmail]: dennisorellana2@gmail.com
+[linkedin]: https://www.linkedin.com/in/dennis-orellana/
