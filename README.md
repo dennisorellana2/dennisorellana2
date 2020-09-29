@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning big data analytics tools.
 - 👯 I’m looking to collaborate with other content data scientists.
 - 🥅 2020 Goals: Contribute more to open source data science projects.
-- ⚡ Fun fact: I love to dance latino music and play socccer.
+- ⚡ Fun fact: I love to dance latino music and play soccer.
 
 
 ### Connect with me:
