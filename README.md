@@ -32,7 +32,7 @@
 <img align="left" alt="Spark apache" width="26px" src="https://spark.apache.org/images/spark-logo-trademark.png" />
 <img align="left" alt="Watson Studio" width="26px" src="https://cache.globalcatalog.cloud.ibm.com/api/v1/39ba9d4c-b1c5-4cc3-a163-38b580121e01/artifacts/cache/3a58e03b24ca5cfe0195ae72fd7c5401-public/watson-studio-light.svg" />
 <img align="left" alt="Anaconda" width="26px" src="https://avatars2.githubusercontent.com/u/1158637?s=200&v=4g" />
-<img align="left" alt="SAS" width="26px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQF7HWpGtbpFSg/company-logo_200_200/0?e=1609372800&v=beta&t=3jkoT6aFLB65tuJeNBRRJ0T5ghFdAk_Z52MO56zHDKo" />
+<img align="left" alt="SAS" width="26px" src="https://yt3.ggpht.com/a/AATXAJxS_eTWj-fnjXa4AVzIEQaxRxcCOS_Lvus40Jg21g=s100-c-k-c0xffffffff-no-rj-mo" />
 
 [gmail]: dennisorellana2@gmail.com
 [linkedin]: https://www.linkedin.com/in/dennis-orellana/
