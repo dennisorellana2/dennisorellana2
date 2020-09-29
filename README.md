@@ -30,6 +30,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Spark apache" width="26px" src="https://spark.apache.org/images/spark-logo-trademark.png" />
 <img align="left" alt="Watson Studio" width="26px" src="https://cache.globalcatalog.cloud.ibm.com/api/v1/39ba9d4c-b1c5-4cc3-a163-38b580121e01/artifacts/cache/3a58e03b24ca5cfe0195ae72fd7c5401-public/watson-studio-light.svg" />
+<img align="left" alt="Anaconda" width="26px" src="https://avatars2.githubusercontent.com/u/1158637?s=200&v=4g" />
 
 [gmail]: dennisorellana2@gmail.com
 [linkedin]: https://www.linkedin.com/in/dennis-orellana/
