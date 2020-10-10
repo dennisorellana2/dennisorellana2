@@ -14,8 +14,16 @@
 :e-mail:dennisorellana2@gmail.com
 [<img align="left" alt="dennisorellana2 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
+
+### Operating Systems:
+
+<img align="left" alt="Windows" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSooCKy0Tyng-WXBarUkQXMObD74MSXGeQKZg&usqp=CAU" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+
 
 <br />
+
 
 ### Languages and Tools:
 
