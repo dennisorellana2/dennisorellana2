@@ -3,7 +3,7 @@
 ## I'm a data analytics graduate student.
 
 - 🔭 I’m currently working on Spark.
-- 🌱 I’m currently learning big data analytics tools and Linux.
+- 🌱 I’m currently learning Cognitive Analytics and Linux.
 - 👯 I’m looking to collaborate with other content data scientists.
 - 🥅 2020 Goals: Contribute more to open source data science projects.
 - ⚡ Fun fact: I love to dance latino music and play soccer.
