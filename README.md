@@ -1,4 +1,4 @@
-### Hi there, I'm Dennis.
+### Hi, My name is Dennis.
 
 ## I'm a data analytics graduate student.
 
