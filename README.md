@@ -42,6 +42,7 @@
 <img align="left" alt="Anaconda" width="26px" src="https://avatars2.githubusercontent.com/u/1158637?s=200&v=4g" />
 <img align="left" alt="SAS" width="26px" src="https://yt3.ggpht.com/a/AATXAJxS_eTWj-fnjXa4AVzIEQaxRxcCOS_Lvus40Jg21g=s100-c-k-c0xffffffff-no-rj-mo" />
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
+<img align="left" alt="IBM Db2 on Cloud" width="26px" src="https://pbs.twimg.com/media/CNLg3NoUEAA03e8?format=png&name=360x360" />
 
 [gmail]: dennisorellana2@gmail.com
 [linkedin]: https://www.linkedin.com/in/dennis-orellana/
