@@ -2,7 +2,7 @@
 
 ## I'm a data analytics graduate student.
 
-- 🔭 I’m currently working on AWS.
+- 🔭 I’m currently working on Amazon Linux.
 - 🌱 I’m currently learning AWS, Raspberry Pi and Linux.
 - 👯 I’m looking to collaborate with other content data scientists.
 - 🥅 2020 Goals: Contribute more to open source data science projects.
