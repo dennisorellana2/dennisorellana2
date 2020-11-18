@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Amazon Linux.
 - 🌱 I’m currently learning AWS, Raspberry Pi and Linux.
-- 👯 I’m looking to collaborate with other content data scientists.
+- 👯 I’m looking to collaborate with others about data science.
 - 🥅 2020 Goals: Contribute more to open source data science projects.
 - ⚡ Fun fact: I love to dance Latin music and play soccer.
 
