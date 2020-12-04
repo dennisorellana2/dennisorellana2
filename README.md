@@ -25,11 +25,17 @@
 <br />
 
 
-### Languages and Tools:
+### Languages:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+
+<br />
+
+
+### Tools:
 <img align="left" alt="jupyter-notebook" width="26px" src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" />
 <img align="left" alt="RStudio" width="26px" src="https://avatars0.githubusercontent.com/u/513560?s=200&v=4" />
 <img align="left" alt="Spyder" width="26px" src="https://avatars0.githubusercontent.com/u/1284937?s=200&v=4" />
@@ -45,6 +51,7 @@
 <img align="left" alt="IBM Db2 on Cloud" width="26px" src="https://pbs.twimg.com/media/CNLg3NoUEAA03e8?format=png&name=360x360" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
+
 
 [gmail]: dennisorellana2@gmail.com
 [linkedin]: https://www.linkedin.com/in/dennis-orellana/
