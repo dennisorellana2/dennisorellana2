@@ -2,8 +2,8 @@
 
 ## I'm a data analytics graduate student.
 
-- 🔭 I’m currently working on Amazon Linux.
-- 🌱 I’m currently learning AWS, Raspberry Pi and Linux.
+- 🔭 I’m currently working on PostgreSQL Projects.
+- 🌱 I’m currently learning AWS, PostgreSQL 13 with pgAdmin 4.
 - 👯 I’m looking to collaborate with others about data science.
 - 🥅 2020 Goals: Contribute more to open source data science projects.
 - ⚡ Fun fact: I love to dance Latin music and play soccer.
@@ -41,6 +41,7 @@
 <img align="left" alt="Spyder" width="26px" src="https://avatars0.githubusercontent.com/u/1284937?s=200&v=4" />
 <img align="left" alt="CoLab" width="26px" src="https://avatars1.githubusercontent.com/u/38081706?s=60&u=963d11e5a1e77618d6baab30d32d40cb17e4064d&v=4" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Tableau" width="26px" src="https://tableau.github.io/webdataconnector/assets/logo.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Spark apache" width="26px" src="https://spark.apache.org/images/spark-logo-trademark.png" />
