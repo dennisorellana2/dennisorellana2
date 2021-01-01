@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on PostgreSQL Projects.
 - 🌱 I’m currently learning AWS, PostgreSQL 13 with pgAdmin 4.
 - 👯 I’m looking to collaborate with others about data science.
-- 🥅 2020 Goals: Contribute more to open source data science projects.
+- 🥅 2021 Goals: Contribute more to open source data science projects.
 - ⚡ Fun fact: I love to dance Latin music and play soccer.
 
 
