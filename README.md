@@ -16,15 +16,6 @@
 
 <br />
 
-### Operating Systems:
-
-<img align="left" alt="Windows" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSooCKy0Tyng-WXBarUkQXMObD74MSXGeQKZg&usqp=CAU" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-
-
-<br />
-
-
 ### Languages:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -56,6 +47,19 @@
 <img align="left" alt="Anaconda" width="26px" src="https://avatars2.githubusercontent.com/u/1158637?s=200&v=4g" />
 <img align="left" alt="SAS" width="26px" src="https://yt3.ggpht.com/a/AATXAJxS_eTWj-fnjXa4AVzIEQaxRxcCOS_Lvus40Jg21g=s100-c-k-c0xffffffff-no-rj-mo" />
 <img align="left" alt="Deepnote" width="26px" src="https://deepnote.com/static/landing/logo.svg" />
+
+
+<br />
+
+
+### Operating Systems:
+
+<img align="left" alt="Windows" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSooCKy0Tyng-WXBarUkQXMObD74MSXGeQKZg&usqp=CAU" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+
+
+<br />
+
 
 [gmail]: dennisorellana2@gmail.com
 [linkedin]: https://www.linkedin.com/in/dennis-orellana/
