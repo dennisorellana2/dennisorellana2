@@ -24,13 +24,12 @@
 <br />
 
 ### Cloud Computing Tools:
-<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
-
-<img align="left" alt="IBM Cloud" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/IBM_Cloud_logo.png/250px-IBM_Cloud_logo.png" />
-<img align="left" alt="IBM Db2 on Cloud" width="26px" src="https://pbs.twimg.com/media/CNLg3NoUEAA03e8?format=png&name=360x360" />
+<img align="left" alt="Azure" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
+<img align="left" alt="IBM Cloud" width="66px" src="https://www.gcgcom.com/wp-content/uploads/2018/06/ibm-cloud-300x150.png" />
+<img align="left" alt="IBM Db2 on Cloud" width="36px" src="https://pbs.twimg.com/media/CNLg3NoUEAA03e8?format=png&name=360x360" />
 <img align="left" alt="Watson Studio" width="26px" src="https://cache.globalcatalog.cloud.ibm.com/api/v1/39ba9d4c-b1c5-4cc3-a163-38b580121e01/artifacts/cache/3a58e03b24ca5cfe0195ae72fd7c5401-public/watson-studio-light.svg" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
-<img align="left" alt="Spark apache" width="26px" src="https://spark.apache.org/images/spark-logo-trademark.png" />
+<img align="left" alt="AWS" width="36px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+<img align="left" alt="Spark apache" width="36px" src="https://spark.apache.org/images/spark-logo-trademark.png" />
 
 
 <br />
