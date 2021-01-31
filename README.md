@@ -35,17 +35,26 @@
 <br />
 
 
-### Other Tools:
+### Notebook Tools:
 <img align="left" alt="jupyter-notebook" width="26px" src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" />
-<img align="left" alt="RStudio" width="26px" src="https://avatars0.githubusercontent.com/u/513560?s=200&v=4" />
-<img align="left" alt="Spyder" width="26px" src="https://avatars0.githubusercontent.com/u/1284937?s=200&v=4" />
 <img align="left" alt="CoLab" width="26px" src="https://avatars1.githubusercontent.com/u/38081706?s=60&u=963d11e5a1e77618d6baab30d32d40cb17e4064d&v=4" />
+<img align="left" alt="Deepnote" width="26px" src="https://deepnote.com/static/landing/logo.svg" />
+
+<br />
+
+
+### Relational Database Management System
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+
+<br />
+
+### Other Tools:
+<img align="left" alt="RStudio" width="26px" src="https://avatars0.githubusercontent.com/u/513560?s=200&v=4" />
+<img align="left" alt="Spyder" width="26px" src="https://avatars0.githubusercontent.com/u/1284937?s=200&v=4" />
 <img align="left" alt="Tableau" width="26px" src="https://tableau.github.io/webdataconnector/assets/logo.png" />
 <img align="left" alt="Anaconda" width="26px" src="https://avatars2.githubusercontent.com/u/1158637?s=200&v=4g" />
 <img align="left" alt="SAS" width="26px" src="https://yt3.ggpht.com/a/AATXAJxS_eTWj-fnjXa4AVzIEQaxRxcCOS_Lvus40Jg21g=s100-c-k-c0xffffffff-no-rj-mo" />
-<img align="left" alt="Deepnote" width="26px" src="https://deepnote.com/static/landing/logo.svg" />
 
 
 <br />
