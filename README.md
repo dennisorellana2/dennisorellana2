@@ -56,7 +56,7 @@
 <img align="left" alt="Tableau" width="26px" src="https://tableau.github.io/webdataconnector/assets/logo.png" />
 <img align="left" alt="Anaconda" width="26px" src="https://avatars2.githubusercontent.com/u/1158637?s=200&v=4g" />
 <img align="left" alt="SAS" width="26px" src="https://yt3.ggpht.com/a/AATXAJxS_eTWj-fnjXa4AVzIEQaxRxcCOS_Lvus40Jg21g=s100-c-k-c0xffffffff-no-rj-mo" />
-
+<img align="left" alt="git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 
 <br />
 
