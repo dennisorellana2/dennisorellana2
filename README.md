@@ -2,7 +2,7 @@
 
 ## I'm a data analytics graduate student.
 
-- 🔭 I’m currently working on capstone project for my master's degree.
+- 🔭 I’m currently working on Portfolio.
 - 🌱 I’m currently learning Deepnote, AWS, PostgreSQL 13 with pgAdmin 4.
 - 👯 I’m looking to collaborate with others about data science.
 - 🥅 2021 Goals: Contribute more to open source data science projects and obtain an entry-level position in Data Science.
