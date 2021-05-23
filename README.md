@@ -2,8 +2,8 @@
 
 ## I'm a data analytics graduate student.
 
-- 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning Deepnote, AWS, PostgreSQL 13 with pgAdmin 4.
+- 🔭 I’m currently working on my new project.
+- 🌱 I’m currently learning AWS, PostgreSQL 13 with pgAdmin 4.
 - 👯 I’m looking to collaborate with others about data science.
 - 🥅 2021 Goals: Contribute more to open source data science projects and obtain an entry-level position in Data Science.
 - ⚡ Fun fact: I love to dance latin music and play soccer.
