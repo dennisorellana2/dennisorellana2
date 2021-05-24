@@ -2,7 +2,7 @@
 
 ## I'm a data analytics graduate looking for an entry-level data science position.
 
-- 🔭 I’m currently working on my new project.
+- 🔭 I’m currently working on a hackathon with my colleagues.
 - 🌱 I’m currently learning AWS, PostgreSQL 13 with pgAdmin 4.
 - 👯 I’m looking to collaborate with others about data science.
 - 🥅 2021 Goals: Contribute more to open source data science projects and obtain an entry-level position in Data Science.
