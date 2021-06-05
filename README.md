@@ -1,6 +1,6 @@
 ### Hi, my name is Dennis.
 
-## I'm a data analytics graduate looking for an entry-level data science position.
+## I'm a data analytics graduated student looking for an entry-level data science position.
 
 - 🔭 I’m currently working on a hackathon with my colleagues.
 - 🌱 I’m currently learning AWS, PostgreSQL 13 with pgAdmin 4.
