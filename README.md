@@ -49,11 +49,17 @@
 
 <br />
 
+### Data Visualization Tools:
+<img align="left" alt="Tableau" width="26px" src="https://tableau.github.io/webdataconnector/assets/logo.png" />
+<img align="left" alt="Power BI" width="26px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />
+
+
+<br />
+
 ### Other Tools:
 <img align="left" alt="VSC" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="RStudio" width="26px" src="https://avatars0.githubusercontent.com/u/513560?s=200&v=4" />
 <img align="left" alt="Spyder" width="26px" src="https://avatars0.githubusercontent.com/u/1284937?s=200&v=4" />
-<img align="left" alt="Tableau" width="26px" src="https://tableau.github.io/webdataconnector/assets/logo.png" />
 <img align="left" alt="Anaconda" width="26px" src="https://avatars2.githubusercontent.com/u/1158637?s=200&v=4g" />
 <img align="left" alt="SAS" width="26px" src="https://yt3.ggpht.com/a/AATXAJxS_eTWj-fnjXa4AVzIEQaxRxcCOS_Lvus40Jg21g=s100-c-k-c0xffffffff-no-rj-mo" />
 <img align="left" alt="git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
