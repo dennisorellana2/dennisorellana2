@@ -2,7 +2,7 @@
 
 ## I'm a data analytics graduated student looking for an entry-level data science or data engineer position.
 
-- 🔭 I’m currently working on AWS certification.
+- 🔭 I’m currently working on AWS certification and Hackathon.
 - 🌱 I’m currently learning AWS and Power BI.
 - 👯 I’m looking to collaborate with others about data science.
 - 🥅 2021 Goals: Contribute more to open source data science projects and obtain an entry-level position in Data Science or Data Engineer.
