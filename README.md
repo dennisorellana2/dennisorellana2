@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Databricks.
 - 🌱 I’m currently learning AWS and Power BI.
 - 👯 I’m looking to collaborate with others about data science.
-- 🥅 2021 Goals: Contribute more to open source data science projects and obtain an entry-level position in Data Science or Data Engineer.
+- 🥅 2022 Goals: Contribute more to open source data science projects and obtain an entry-level position in Data Science or Data Engineer.
 - ⚡ Fun fact: I love to dance latin music and play soccer.
 
 
