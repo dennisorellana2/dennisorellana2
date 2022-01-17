@@ -2,7 +2,7 @@
 
 ## I'm a data analytics graduated student looking for an entry-level data science/data analyst or data engineer position.
 
-- 🔭 I’m currently working on Databricks.
+- 🔭 I’m currently working on Databricks project.
 - 🌱 I’m currently learning Databricks.
 - 👯 I’m looking to collaborate with others about data science.
 - 🥅 2022 Goals: Contribute more to open source data science projects and obtain an entry-level position in Data Science or Data Engineer.
