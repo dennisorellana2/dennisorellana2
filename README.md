@@ -1,6 +1,6 @@
 ### Hi, my name is Dennis.
 
-## I'm a data analytics graduated student looking for an entry-level data science, data analyst or data engineer position.
+### I am passionate about data analytics and machine learning to help provide insights to solve customers' needs.
 
 - 🔭 I’m currently working on Databricks project.
 - 🌱 I’m currently learning Databricks.
