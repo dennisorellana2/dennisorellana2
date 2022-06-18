@@ -2,7 +2,7 @@
 
 ### I am passionate about data analytics and machine learning to help provide insights to solve customers' needs.
 
-- 🔭 I’m currently working on Databricks project.
+- 🔭 I’m currently working on Microsoft Power Apps project.
 - 🌱 I’m currently learning Databricks.
 - 👯 I’m looking to collaborate with others about data science.
 - 🥅 2022 Goals: Contribute more to open source data science and data analyst projects and obtain an entry-level position in Data Science or Data Analyst.
