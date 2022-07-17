@@ -5,9 +5,7 @@
 - 🔭 I’m currently working on Microsoft Power Apps project.
 - 🌱 I’m currently learning Databricks.
 - 👯 I’m looking to collaborate with others about data science.
-- 🥅 2022 Goals: Contribute more to open source data science and data analyst projects and obtain an entry-level position in Data Science or Data Analyst.
-- ⚡ Fun fact: I love to dance latin music and play soccer.
-
+- 🥅 2022 Goals: Contribute more to open source data science and data analyst projects.
 
 ### Connect with me:
 
